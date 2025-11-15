@@ -96,7 +96,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1 text-lg">Email</h3>
-                    <p className="text-muted-foreground">hello@lynxloop.com</p>
+                    <p className="text-muted-foreground">info@lynxloop.tech</p>
                   </div>
                 </div>
 
@@ -117,8 +117,8 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-foreground mb-1 text-lg">Office</h3>
                     <p className="text-muted-foreground">
-                      123 Innovation Drive<br />
-                      San Francisco, CA 94103
+                      Porur, Chennai<br />
+                    600125
                     </p>
                   </div>
                 </div>
